@@ -1,5 +1,6 @@
 package com.blz.selenium.test;
 
+import com.blz.selenium.base.BaseClass;
 import com.blz.selenium.engine.KeywordEngine;
 import jdk.jfr.Description;
 import org.testng.Assert;
